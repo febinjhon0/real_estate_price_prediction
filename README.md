@@ -6,7 +6,9 @@ Housing price is an important aspect that reflects economic growth. Also, housin
                                                People looking for a new house tend to be more conservative towards the budget and market strategies. They always try to optimize the budget which matches their requirements and needs. Ideal home is something which fulfills and matches the customer requirement with an appropriate budget. So, price prediction is a very important thing when it comes to planning a budget. Mostly people approach a real estate manager or an agent who predicts price. This is helpful but it also increases your expense because you need to provide commission to the manager. Instead, when we have a website which predicts price for us, the time is saved and money too. It becomes easy for the customer to access it.
 
 ## Introduction
-![175929181-c0cac550-caba-4313-b257-50b69d5060c8](https://github.com/febinjhon0/real_estate_price_prediction/assets/137596876/e0b43303-1387-4bfa-a5bb-28d756f420b5)
+
+![Screenshot 2024-05-21 111625](https://github.com/febinjhon0/real_estate_price_prediction/assets/137596876/0040f5e5-e0af-40d9-ac07-2cd5c0fa53ed)
+
 There comes a problem to build a model that predict property price based on certain features such as bedroom, bathroom, sq feet, location etc. So, the task is to build a website using HTML/CSS/JavaScript that predicts estimated price for your house.
 
 In terms of project architecture, we are going to take a home set from Kaggle.com. Using that data set we will make a machine learning model. While building the model we are going to cover some data science concepts such as data cleaning, feature engineering, Dimensionality reduction, outliner detection etc.
